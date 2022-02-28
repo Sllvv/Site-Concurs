@@ -1,0 +1,1 @@
+let anchors = document.getEleme
